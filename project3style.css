@@ -1,0 +1,84 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(16, 15, 15) !important;
+    overflow-x: hidden;
+}
+#web0{
+    
+    background-color: red;
+    width: 25%;
+    height: 100vh;
+    position:fixed;
+    z-index: -1;
+    clip-path:polygon(0% 0%, 36% 0%, 90% 100%, 0% 100%);
+}
+#img-1{
+   width: 500px;
+   height: 600px;
+   border-radius: 50px;
+
+}
+.img-0{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#name-2{
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 15px 0px 0px 15px;
+    padding: 6px;
+    padding-right: 5px;
+    
+}
+.name-1{
+    display: flex;
+    justify-content: end;
+    width:100%;
+    height: 70px;
+    
+}
+#steve{
+    color:red;
+    text-align: center;
+    font-weight:200%;
+    font-size: 50px;
+    margin-top: 100px;
+}
+#steve1{
+    color: white;
+    text-align: center;
+    font-weight:200%;
+    font-size: 50px;
+
+}
+.steve3{
+    color: white;
+    
+    padding: 5px;
+    background: transparent;
+    border: 2px solid red;
+    margin-left: 200px;
+    border-radius: 40px;
+    margin-top: 20px;
+    
+    
+}
+#steve2{
+       margin-left: 200px;
+       color: white;
+}
+#arrow{
+   
+    color:red;
+    margin-left: 10px;
+}
+.steve5{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    
+}

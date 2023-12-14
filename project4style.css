@@ -1,0 +1,118 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.navbar-nav{
+    margin-left: auto;
+
+}
+.sup-tag{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: #fff;
+
+}
+body{
+    background-image:url(project4img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+.navbar-nav .nav-link, .navbar-nav .nav-link.show{
+    color: white !important;
+}
+.navbar-brand text-color{
+    color: white ;
+}
+.role{
+    color: white;
+}
+.text-logo{
+    color: #fff !important;
+}
+#india{
+    color: #fff;
+}
+#nav1{
+    color: #fff !important;
+}
+#nav2{
+    color: #fff !important;
+    
+}
+.tabs-section{
+    background-color: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 230px;
+    background-color: #fff;
+    width: 52%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px rgba(21,28,34,0.5);
+    
+}
+#pills-tab{
+    display: flex;
+    justify-content: center;
+}
+.tabs-section{
+    padding: 5px;
+}
+#search1{
+
+    width: 450px;
+}
+.slide1{
+    margin-top: 350px;
+}
+.get1{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+#nex1{
+    
+    background-color: red;
+    
+    width: 80%;
+    
+    border-radius: 15px;
+    margin: auto;margin-top: 45px;
+   
+}  
+#light{
+    font-size: 20px;
+    
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding:8px;
+    margin-left: 25px;
+    
+}
+
+
+#nex1{
+    display: flex;
+    align-items: center;
+}
+.text-banner{
+    padding: 10px;
+}
+.text-ban{
+    margin-top: -10px;
+}
+#tools{
+    margin-top: 15px;
+}
